@@ -30,7 +30,8 @@ ALLOWED_HOSTS = [
     '127.0.0.1',
     'localhost',
     '134.213.151.223',
-    '772b7b35.ngrok.io'
+    '772b7b35.ngrok.io',
+    'api-l00p.herokuapp.com'
 ]
 
 
